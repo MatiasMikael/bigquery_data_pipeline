@@ -1,0 +1,10 @@
+2024-12-30 15:42:10,038 - INFO - Pipeline started.
+2024-12-30 15:42:11,748 - INFO - Fetched data saved to C:\Users\Matias\Desktop\bigquery_data_pipeline\2_data\raw_data.csv. Rows: 27460
+2024-12-30 15:42:12,441 - INFO - Cleaned data saved to C:\Users\Matias\Desktop\bigquery_data_pipeline\2_data\cleaned_data.csv. Rows: 27460
+2024-12-30 15:42:21,237 - INFO - Data successfully loaded to BigQuery table bigquery-data-pipeline.stock_data.cleaned_table. Rows: 27460
+2024-12-30 15:42:21,238 - INFO - Pipeline completed successfully.
+2024-12-30 16:04:03,771 - INFO - Pipeline started.
+2024-12-30 16:04:09,666 - INFO - Fetched data saved to C:\Users\Matias\Desktop\bigquery_data_pipeline\2_data\raw_data.csv. Rows: 27460
+2024-12-30 16:04:12,233 - INFO - Cleaned data saved to C:\Users\Matias\Desktop\bigquery_data_pipeline\2_data\cleaned_data.csv. Rows: 27460
+2024-12-30 16:04:21,588 - INFO - Data successfully loaded to BigQuery table bigquery-data-pipeline.stock_data.cleaned_table. Rows: 27460
+2024-12-30 16:04:21,652 - INFO - Pipeline completed successfully.

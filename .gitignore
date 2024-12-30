@@ -1,0 +1,12 @@
+# Environment Variables
+.env
+
+# Google Cloud Credentials
+credentials/
+
+# Python Virtual Environment
+venv/
+
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]

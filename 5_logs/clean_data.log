@@ -1,0 +1,16 @@
+2024-12-30 11:20:04,638 - INFO - Loaded data from C:\Users\Matias\Desktop\bigquery_data_pipeline\2_data/raw_data.csv with 27454 rows and columns: ['currency', 'description', 'displaySymbol', 'figi', 'isin', 'mic', 'shareClassFIGI', 'symbol', 'symbol2', 'type']
+2024-12-30 11:20:04,654 - INFO - Kept columns: ['currency', 'description', 'displaySymbol', 'symbol', 'type']. Remaining data has 27454 rows.
+2024-12-30 11:20:04,669 - INFO - Dropped rows with missing values. Remaining rows: 26926.
+2024-12-30 11:20:04,826 - INFO - Cleaned data saved to C:\Users\Matias\Desktop\bigquery_data_pipeline\2_data/cleaned_data.csv.
+2024-12-30 14:29:03,892 - INFO - Loaded data from C:\Users\Matias\Desktop\bigquery_data_pipeline\2_data/raw_data.csv with 27454 rows and columns: ['currency', 'description', 'displaySymbol', 'figi', 'isin', 'mic', 'shareClassFIGI', 'symbol', 'symbol2', 'type']
+2024-12-30 14:29:03,908 - INFO - Kept columns: ['currency', 'description', 'displaySymbol', 'symbol', 'type']. Remaining data has 27454 rows.
+2024-12-30 14:29:03,923 - INFO - Dropped rows with missing values. Remaining rows: 26926.
+2024-12-30 14:29:04,018 - INFO - Cleaned data saved to C:\Users\Matias\Desktop\bigquery_data_pipeline\2_data/cleaned_data.csv.
+2024-12-30 14:31:17,682 - INFO - Loaded data from C:\Users\Matias\Desktop\bigquery_data_pipeline\2_data/raw_data.csv with 27454 rows and columns: ['currency', 'description', 'displaySymbol', 'figi', 'isin', 'mic', 'shareClassFIGI', 'symbol', 'symbol2', 'type']
+2024-12-30 14:31:17,697 - INFO - Kept columns: ['currency', 'description', 'displaySymbol', 'symbol', 'type']. Remaining data has 27454 rows.
+2024-12-30 14:31:17,713 - INFO - Dropped rows with missing values. Remaining rows: 26926.
+2024-12-30 14:31:17,822 - INFO - Cleaned data saved to C:\Users\Matias\Desktop\bigquery_data_pipeline\2_data/cleaned_data.csv.
+2024-12-30 14:32:52,348 - INFO - Loaded data from C:\Users\Matias\Desktop\bigquery_data_pipeline\2_data/raw_data.csv with 27460 rows and columns: ['currency', 'description', 'displaySymbol', 'figi', 'isin', 'mic', 'shareClassFIGI', 'symbol', 'symbol2', 'type']
+2024-12-30 14:32:52,364 - INFO - Kept columns: ['currency', 'description', 'displaySymbol', 'symbol', 'type']. Remaining data has 27460 rows.
+2024-12-30 14:32:52,379 - INFO - Dropped rows with missing values. Remaining rows: 26924.
+2024-12-30 14:32:52,504 - INFO - Cleaned data saved to C:\Users\Matias\Desktop\bigquery_data_pipeline\2_data/cleaned_data.csv.
